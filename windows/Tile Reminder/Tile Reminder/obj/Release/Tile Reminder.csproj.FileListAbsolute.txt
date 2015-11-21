@@ -1,0 +1,32 @@
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\App.xbf
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\MainPage.xbf
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder.xr.xml
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder.exe
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder.pdb
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\resources.pri
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\AppxManifest.xml
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\App.g.i.cs
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\App.g.cs
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\MainPage.g.i.cs
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\MainPage.g.cs
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\XamlTypeInfo.g.cs
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\App.xaml
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\App.xbf
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\XamlSaveStateFile.xml
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\MainPage.xaml
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\MainPage.xbf
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\Tile Reminder.exe
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\Tile Reminder.pdb
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\priconfig.xml
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\priconfig.xml.intermediate
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\layout.resfiles
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\layout.resfiles.intermediate
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\resources.resfiles
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\resources.resfiles.intermediate
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\pri.resfiles
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\pri.resfiles.intermediate
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\qualifiers.txt
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\qualifiers.txt.intermediate
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\MultipleQualifiersPerDimensionFound.txt
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\ProjectArchitectures.txt
+c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder.build.appxrecipe

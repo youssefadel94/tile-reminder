@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="26342youssefAdel.TileReminder" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://26342youssefAdel.TileReminder/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://26342youssefAdel.TileReminder/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Tile Reminder.xr.xml" uri="ms-resource://26342youssefAdel.TileReminder/Files/Tile%20Reminder.xr.xml">
+				<Candidate type="Path">
+					<Value>Tile Reminder.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="ak - Copy.jpg" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/ak%20-%20Copy.jpg">
+					<Candidate type="Path">
+						<Value>Assets\ak - Copy.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="low-poly-texture-19 - Copy.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/low-poly-texture-19%20-%20Copy.png">
+					<Candidate type="Path">
+						<Value>Assets\low-poly-texture-19 - Copy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smoke - Copy.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/smoke%20-%20Copy.png">
+					<Candidate type="Path">
+						<Value>Assets\smoke - Copy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smoke s - Copy.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/smoke%20s%20-%20Copy.png">
+					<Candidate type="Path">
+						<Value>Assets\smoke s - Copy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smokess - Copy.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/smokess%20-%20Copy.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\smokess - Copy.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://26342youssefAdel.TileReminder/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\split.scale-180.pri"			"resources.pri"
+"c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\PackageLayout\Assets\Square70x70Logo.scale-180.png"			"Assets\Square70x70Logo.scale-180.png"
+"c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\PackageLayout\Assets\Square310x310Logo.scale-180.png"			"Assets\Square310x310Logo.scale-180.png"
+"c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\PackageLayout\Assets\SplashScreen.scale-180.png"			"Assets\SplashScreen.scale-180.png"
+"c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\PackageLayout\Assets\smokess - Copy.scale-180.png"			"Assets\smokess - Copy.scale-180.png"
+"c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\PackageLayout\Assets\Logo.scale-180.png"			"Assets\Logo.scale-180.png"

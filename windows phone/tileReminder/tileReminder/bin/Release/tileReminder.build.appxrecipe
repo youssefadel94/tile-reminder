@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YOUSSEF</Machine>
+    <WindowsUser>youssef  adel</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0e3eb7ca-a1b8-4a10-bbc0-9bebd72df686</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\tileReminder.exe">
+      <PackagePath>tileReminder.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\ak.scale-240.jpg">
+      <PackagePath>Assets\ak.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\low-poly-texture-19 - Copy.png">
+      <PackagePath>Assets\low-poly-texture-19 - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\smoke s.scale-240.png">
+      <PackagePath>Assets\smoke s.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\smoke.scale-240.png">
+      <PackagePath>Assets\smoke.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\smokess.scale-240.png">
+      <PackagePath>Assets\smokess.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\ssmoke.scale-240.png">
+      <PackagePath>Assets\ssmoke.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\ssmokes.png">
+      <PackagePath>Assets\ssmokes.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\tileReminder.xr.xml">
+      <PackagePath>tileReminder.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\youssef  adel\Documents\Visual Studio 2013\Projects\tileReminder\tileReminder\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

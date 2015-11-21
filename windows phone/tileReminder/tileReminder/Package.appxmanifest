@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="26342youssefAdel.TileReminder" Publisher="CN=DD64B5D2-4494-404C-8623-E877C6419246" Version="1.1.0.0" />
+  <mp:PhoneIdentity PhoneProductId="0e3eb7ca-a1b8-4a10-bbc0-9bebd72df686" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Tile Reminder</DisplayName>
+    <PublisherDisplayName>youssefAdel</PublisherDisplayName>
+    <Logo>Assets\ssmoke.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="tileReminder.App">
+      <m3:VisualElements DisplayName="Tile Reminder" Square150x150Logo="Assets\smoke.png" Square44x44Logo="Assets\ssmokes.png" Description="tileReminder is an app thag helps you create  empty tiles and tiles count down for events" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\smokess.png" Square71x71Logo="Assets\smoke s.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+            <m3:ShowOn Tile="wide310x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\ak.jpg" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <m3:Capability Name="appointments" />
+  </Capabilities>
+</Package>

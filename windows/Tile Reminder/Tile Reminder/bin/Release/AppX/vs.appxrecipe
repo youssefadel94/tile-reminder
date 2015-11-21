@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YOUSSEF</Machine>
+    <WindowsUser>youssef  adel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>26342youssefAdel.TileReminder</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8D888B677333F4A87414AF541E4905C49828CB638B43AD1B61BB8C5C34B89651</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>26342youssefAdel.TileReminder_1.1.0.10_neutral__58vnhqzrqwmvr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>26342youssefAdel.TileReminder_58vnhqzrqwmvr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>26342youssefAdel.TileReminder</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DD64B5D2-4494-404C-8623-E877C6419246</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.10</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:38:46.649</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder.exe">
+      <PackagePath>Tile Reminder.exe</PackagePath>
+      <Modified>2015-05-07T02:38:16.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\ak - Copy.jpg">
+      <PackagePath>Assets\ak - Copy.jpg</PackagePath>
+      <Modified>2015-05-07T01:18:05.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:34:04.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T01:58:48.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\low-poly-texture-19 - Copy.png">
+      <PackagePath>Assets\low-poly-texture-19 - Copy.png</PackagePath>
+      <Modified>2015-05-06T23:29:24.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:24:32.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smoke - Copy.png">
+      <PackagePath>Assets\smoke - Copy.png</PackagePath>
+      <Modified>2015-05-07T02:00:25.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smoke s - Copy.png">
+      <PackagePath>Assets\smoke s - Copy.png</PackagePath>
+      <Modified>2015-05-07T01:18:05.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smokess - Copy.scale-100.png">
+      <PackagePath>Assets\smokess - Copy.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:11:44.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smokess - Copy.scale-180.png">
+      <PackagePath>Assets\smokess - Copy.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:12:29.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:23:34.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T01:57:07.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:07:59.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:00:25.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:08:53.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T01:58:17.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T02:33:00.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-07T02:02:17.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-07T02:38:16.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder.xr.xml">
+      <PackagePath>Tile Reminder.xr.xml</PackagePath>
+      <Modified>2015-05-07T02:37:23.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-07T02:38:46.514</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

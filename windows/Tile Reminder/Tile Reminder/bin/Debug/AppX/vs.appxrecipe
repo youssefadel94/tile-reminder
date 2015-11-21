@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YOUSSEF</Machine>
+    <WindowsUser>youssef  adel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a49f6ec5-0c7e-4495-ba58-a47924cebbc1</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CEA46E926279FAC9C790C34FB393E9FDDE37DB903CB16D79744A1D41CAD075FD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a49f6ec5-0c7e-4495-ba58-a47924cebbc1_1.0.0.0_neutral__e9qh70wrdaa52</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a49f6ec5-0c7e-4495-ba58-a47924cebbc1_e9qh70wrdaa52!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a49f6ec5-0c7e-4495-ba58-a47924cebbc1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=youssef  adel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-07T01:28:01.550</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Debug\Tile Reminder.exe">
+      <PackagePath>Tile Reminder.exe</PackagePath>
+      <Modified>2015-05-07T01:38:05.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\ak - Copy.jpg">
+      <PackagePath>Assets\ak - Copy.jpg</PackagePath>
+      <Modified>2015-05-07T01:18:05.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T06:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\low-poly-texture-19 - Copy.png">
+      <PackagePath>Assets\low-poly-texture-19 - Copy.png</PackagePath>
+      <Modified>2015-05-06T23:29:24.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T06:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smoke - Copy.png">
+      <PackagePath>Assets\smoke - Copy.png</PackagePath>
+      <Modified>2015-05-07T01:18:05.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smoke s - Copy.png">
+      <PackagePath>Assets\smoke s - Copy.png</PackagePath>
+      <Modified>2015-05-07T01:18:05.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\smokess - Copy.png">
+      <PackagePath>Assets\smokess - Copy.png</PackagePath>
+      <Modified>2015-05-07T01:18:05.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T06:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\ssmokes - Copy.png">
+      <PackagePath>Assets\ssmokes - Copy.png</PackagePath>
+      <Modified>2015-05-07T01:18:05.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T06:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-07T00:10:08.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-07T01:38:05.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Debug\Tile Reminder.xr.xml">
+      <PackagePath>Tile Reminder.xr.xml</PackagePath>
+      <Modified>2015-05-07T01:38:04.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-07T01:28:01.424</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

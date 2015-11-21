@@ -1,0 +1,3 @@
+MainPackage=c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder_1.1.0.10_Bundle\Tile Reminder_1.1.0.10_AnyCPU.appx
+SymbolPackage=c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\AppPackages\Tile Reminder_1.1.0.10_Test\Tile Reminder_1.1.0.10_AnyCPU.appxsym
+ResourcePack=c:\users\youssef  adel\documents\visual studio 2013\Projects\Tile Reminder\Tile Reminder\bin\Release\Tile Reminder_1.1.0.10_Bundle\Tile Reminder_1.1.0.10_scale-180.appx
